@@ -61,8 +61,8 @@ $wgEmailAuthentication = true;
 $wgDBtype           = "mysql";
 $wgDBserver         = "localhost";
 $wgDBname           = "caipedia";
-$wgDBuser           = "toogreen";
-$wgDBpassword       = "toosad";
+$wgDBuser           = "root";
+$wgDBpassword       = "";
 
 
 # MySQL specific settings
